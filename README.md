@@ -1,0 +1,1 @@
+This project is about CURD using ModelViewSet which provides advance features of rest framework
